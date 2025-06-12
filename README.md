@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm a student who's passionate about robotics,<br>chess, game development, and math.<br>While I primarily focus on robotics, <br>I enjoy working on various projects in different areas.
+I like building cool stuff, mostly creating new algorithms and experimenting with them.
 
 
 ## 🌐 Socials:
